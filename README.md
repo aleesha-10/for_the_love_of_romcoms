@@ -5,7 +5,9 @@ https://for-the-love-of-romcoms.vercel.app/
 I built this project for two reasons : 
 1) I wanted a dedicated platform for romcom enthusiasts
 2) I wanted to build a complete full-stack application from scratch.
-   ---
+
+   
+---
 This idea had been sitting on my "to-do and upload on github" list for a long time and seemed like the perfect way to tackle both the reasons at once.
 The application lets you discover, rate, and track romantic comedies, write reviews, interact with other users, and get a personalized romcom prescription based on your current mood. It is fully deployed and useable. I do intend to keep adding features and expand it further in multiple ways, but I wanted real users testing it first.
 
