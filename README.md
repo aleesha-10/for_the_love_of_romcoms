@@ -147,3 +147,33 @@ Movie data is provided by The Movie Database (TMDB). This product uses the TMDB 
 ## Author
 
 Built by [aleesha-10](https://github.com/aleesha-10) <3
+
+## Sign up
+
+## Homepage
+
+<img width="875" height="815" alt="image" src="https://github.com/user-attachments/assets/bd900f40-ecaf-403e-a947-031dd6c1d66b" />
+<img width="873" height="896" alt="image" src="https://github.com/user-attachments/assets/9acc4725-f041-4b86-af73-050a841f5731" />
+
+<img width="983" height="642" alt="image" src="https://github.com/user-attachments/assets/202b8238-18ce-48c7-bc55-70f82a03b674" />
+
+## Movies
+
+<img width="797" height="895" alt="image" src="https://github.com/user-attachments/assets/d450e7fe-50bb-4c5f-aa8d-da4a0f6c5eb1" />
+
+## Seasons
+
+<img width="806" height="804" alt="image" src="https://github.com/user-attachments/assets/727d59b1-6c14-4424-a9c5-ecdd8ece49de" />
+
+## Romcom Prescriptor
+
+
+<img width="831" height="471" alt="image" src="https://github.com/user-attachments/assets/5da68a82-bf66-48c9-95e2-059d0e86006c" />
+
+
+
+
+
+
+
+
