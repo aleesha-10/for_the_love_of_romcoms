@@ -156,9 +156,7 @@ Built by [aleesha-10](https://github.com/aleesha-10) <3
 ## Homepage
 
 <img width="875" height="815" alt="image" src="https://github.com/user-attachments/assets/bd900f40-ecaf-403e-a947-031dd6c1d66b" />
-<img width="873" height="896" alt="image" src="https://github.com/user-attachments/assets/9acc4725-f041-4b86-af73-050a841f5731" />
 
-<img width="983" height="642" alt="image" src="https://github.com/user-attachments/assets/202b8238-18ce-48c7-bc55-70f82a03b674" />
 
 ## Movies
 
