@@ -2,20 +2,20 @@
 https://for-the-love-of-romcoms.vercel.app/
 
 # For the Love of Romcoms
-I built this project for two reasons : 
+I built this project for two reasons: 
 1) I wanted a dedicated platform for romcom enthusiasts
-2) I wanted to build a complete full-stack application from scratch.
+2) I was really interested in trying full-stack development, even though my main fields of interest are AI and Data Science.
 
    
 ---
-This idea had been sitting on my "to-do and upload on github" list for a long time and seemed like the perfect way to tackle both the reasons at once.
-The application lets you discover, rate, and track romantic comedies, write reviews, interact with other users, and get a personalized romcom prescription based on your current mood. It is fully deployed and useable. I do intend to keep adding features and expand it further in multiple ways, but I wanted real users testing it first.
+This idea had been sitting on my "to-do and upload on github" list for a long time and it seemed like the perfect way to tackle both the tasks at once.
+The application lets you discover, rate, and track romantic comedies, write reviews, interact with other users, and get a personalized romcom prescription based on your current mood. It is fully deployed and usable. I do intend to continue expanding it with new features but I wanted real users testing it first.
 
 ---
 
 ## Overview
 
-For the Love of Romcoms is an online platform built specifically for the romantic comedy genre. The application pulls data from the TMDB API and organizes films by mood, season, holiday, and trope — making it easier for users to find exactly the kind of romcom they're in the mood for.
+For the Love of Romcoms is an online platform built specifically for the romantic comedy genre. The application pulls data from the TMDB API and organizes films by mood, season, holiday, and trope, making it easier for users to find exactly the kind of romcom they're in the mood for.
 
 ---
 
@@ -35,7 +35,7 @@ For the Love of Romcoms is an online platform built specifically for the romanti
 - User search from the navbar
 - Profile picture upload via Cloudinary
 - Settings page for profile updates,change password
-- persoanlized share cards 
+- personalized share cards 
 
 **Social**
 - Write, edit, and delete reviews with 1-5 star ratings and spoiler warnings
