@@ -150,6 +150,9 @@ Built by [aleesha-10](https://github.com/aleesha-10) <3
 
 ## Sign up
 
+<img width="343" height="517" alt="image" src="https://github.com/user-attachments/assets/a42e59f7-31f5-4a56-9613-b166c4d4343d" />
+
+
 ## Homepage
 
 <img width="875" height="815" alt="image" src="https://github.com/user-attachments/assets/bd900f40-ecaf-403e-a947-031dd6c1d66b" />
