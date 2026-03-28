@@ -1,4 +1,4 @@
-# for_the_love_of_romcoms
+# RomComTHIS  ( for_the_love_of_romcoms ) 
 https://for-the-love-of-romcoms.vercel.app/
 
 # For the Love of Romcoms
@@ -143,6 +143,75 @@ Reviewer usernames on movie detail pages show a popup card on hover, fetching li
 Movie data is provided by The Movie Database (TMDB). This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 ---
+## Recent Updates
+
+The platform has been expanded with deeper interactivity, personalization, and a hybrid notification system. Below are the latest additions:
+
+💌 Interactive Movie Experience
+Ship Rating System
+Added an expressive ShipRating component on the movie detail page
+Includes 5 animated heart-based options with playful labels:
+“My forever OTP 💒”
+“They should just be friends 😬”
+Displays a live community average rating
+Notebook Enhancements
+Personal notebook entries remain fully preserved
+Each entry includes a date and optional note for reflection and tracking
+🔔 Notification System (Hybrid)
+
+A complete notification system was introduced, combining local activity tracking with existing server-side social notifications.
+
+Local Notifications (Client-side)
+
+Stored in localStorage for instant feedback:
+
+Triggered on:
+Review creation
+Review updates
+Comment posting
+Notebook logs
+Functions implemented:
+addNotification
+getLocalNotifications
+markLocalNotificationRead
+markAllLocalNotificationsRead
+deleteLocalNotification
+getLocalUnreadCount
+Server Notifications (Unchanged)
+Existing API-based notifications (likes, follows, etc.) remain fully intact
+🔔 Notifications Page
+
+A dedicated Notifications Page was added with a dual-tab system:
+
+My Activity
+Displays local notifications (reviews, comments, notebook activity)
+Social
+Displays server notifications (likes, follows, etc.)
+
+Features:
+
+Context-aware icons for each notification type
+Direct links to relevant movies/content
+Unread indicators
+Individual delete option
+“Mark all as read” clears both local and server notifications
+👤 Profile Page Enhancements
+Seasonal Preferences
+Automatically computed from Vault favorites
+Each season visualized with a unique gradient bar
+Review Frequency
+Displays engagement as:
+(reviews / favorites) × 100%
+Review Statistics (Live)
+Average rating visualization
+Full star breakdown (5★ → 1★)
+Animated distribution bars
+“Your Ship Type” Personality Card
+Dynamically generated based on average rating
+Examples include:
+OTP Devotee
+Hopeful Romantic
+Adds a fun, identity-driven layer to user profiles
 
 ## Author
 
