@@ -105,6 +105,13 @@ MySQL
 JWT authentication
 bcryptjs
 Nodemailer (email verification and password reset)
+Frontend
+
+
+## APIs & Services
+
+TMDB API (movie data)
+Cloudinary (profile picture uploads)
 
 # Infrastructure
 
