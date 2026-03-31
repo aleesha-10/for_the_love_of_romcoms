@@ -54,26 +54,26 @@ Personal Notebook ( The Notebook ) for logging ( Memory Lane ) thoughts with dat
 
 -- Notifications
 
-Hybrid notification system:
-Local notifications (stored in localStorage) for:
-review creation and updates
-comments
-notebook entries
-Server notifications for:
-likes
-follows
-reviews from followed users
-Dedicated Notifications page with:
-“My Activity” (local) and “Social” (server) tabs
-unread indicators
-delete and mark-all-as-read functionality
+- Hybrid notification system:
+- Local notifications (stored in localStorage) for:
+- review creation and updates
+- comments
+- notebook entries
+- Server notifications for:
+- likes
+- follows
+- reviews from followed users
+- Dedicated Notifications page with:
+- “My Activity” (local) and “Social” (server) tabs
+- unread indicators
+- delete and mark-all-as-read functionality
 
 -- Profile Insights
 
-Seasonal preferences automatically derived from favorites
-Review frequency metric (reviews / favorites)
-Review statistics with average rating and full star breakdown
-“Your Ship Type” personality system based on rating behavior
+- Seasonal preferences automatically derived from favorites
+- Review frequency metric (reviews / favorites)
+- Review statistics with average rating and full star breakdown
+- “Your Ship Type” personality system based on rating behavior
 
 -- Romcom Prescriptor
 
@@ -83,42 +83,40 @@ Download a shareable result card
 
 -- Admin
 
-Protected admin panel (role-based access using isAdmin)
-Manage users, reviews, and movies
-Dashboard with platform statistics
-Ability to expand movie catalog via TMDB sync
-Tech Stack
+- Protected admin panel (role-based access using isAdmin)
+- Manage users, reviews, and movies
+- Dashboard with platform statistics
+- Ability to expand movie catalog via TMDB sync
+- Tech Stack
 
 ## Frontend
 
-React 18 with TypeScript
-Tailwind CSS
-Framer Motion
-React Router v6
-Axios
+- React 18 with TypeScript
+- Tailwind CSS
+- Framer Motion
+- React Router v6
+- Axios
 
 ##  Backend
 
-Node.js with Express
-Prisma ORM
-MySQL
-JWT authentication
-bcryptjs
-Nodemailer (email verification and password reset)
-Frontend
-
+- Node.js with Express
+- Prisma ORM
+- MySQL
+- JWT authentication
+- bcryptjs
+- Nodemailer (email verification and password reset)
 
 ## APIs & Services
 
-TMDB API (movie data)
-Cloudinary (profile picture uploads)
+- TMDB API (movie data)
+- Cloudinary (profile picture uploads)
 
 # Infrastructure
 
-Frontend hosted on Vercel
-Backend and database hosted on Railway
-Profile picture storage via Cloudinary
-Movie data from The Movie Database (TMDB) API
+- Frontend hosted on Vercel
+- Backend and database hosted on Railway
+- Profile picture storage via Cloudinary
+- Movie data from The Movie Database (TMDB) API
 
 ## Architecture
 
