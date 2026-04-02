@@ -5,8 +5,8 @@ https://www.romcomthis.com/
 
 I built this project for two reasons:
 
-I wanted a dedicated platform for romcom enthusiasts
-I was really interested in trying full-stack development, even though my main fields of interest are AI and Data Science.
+(1) I wanted a dedicated platform for romcom enthusiasts
+(2) I was really interested in trying full-stack development, even though my main fields of interest are AI and Data Science.
 
 This idea had been sitting on my "to-do and upload to github" list for a long time and it seemed like the perfect way to tackle both the tasks at once.
 The application lets you discover, rate, and track romantic comedies, write reviews, interact with other users, and get a personalized romcom prescription based on your current mood. It is fully deployed and usable. I do intend to continue expanding it with new features but I wanted real users testing it first.
