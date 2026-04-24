@@ -158,7 +158,28 @@ GET	/api/v1/users/search	Search users
 GET	/api/v1/users/:username	Get public profile
 POST	/api/v1/users/:id/follow	Follow user
 DELETE	/api/v1/users/:id/follow	Unfollow user
-Author
+
+
+Sneak Peek: 
+
+<img width="1882" height="854" alt="image" src="https://github.com/user-attachments/assets/7b615e81-0898-4bf9-9d59-909a66cbf920" />
+----------------------------------
+
+<img width="1333" height="892" alt="image" src="https://github.com/user-attachments/assets/cab77b01-6d24-44d4-b1e9-e20100c1254c" />
+----------------------------------
+
+<img width="1220" height="802" alt="image" src="https://github.com/user-attachments/assets/f5e43797-3761-4c6a-b909-03111e7f80a2" />
+----------------------------------
+
+<img width="1275" height="812" alt="image" src="https://github.com/user-attachments/assets/e970526a-bd1a-434e-943f-d29b71d394fb" />
+----------------------------------
+
+<img width="951" height="721" alt="image" src="https://github.com/user-attachments/assets/d0709d63-a256-4e42-bb86-3842b2cbb18d" />
+----------------------------------
+
+<img width="974" height="859" alt="image" src="https://github.com/user-attachments/assets/759f2826-c931-4db7-bf0b-20555c615c45" />
+
+
 
 ## Built by 
 aleesha-10  <3
